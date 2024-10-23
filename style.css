@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic);
+
+@import "/src/css/basicStyles.css";
+
+
+:root{
+  --Black_Color: oklch(33.14% 0.0033 345.4);
+  --White_Color: oklch(97.61% 0 0);
+  --Orange_Color: oklch(79.37% 0.1498 77.91);
+  --Green_Color: oklch(52.44% 0.0731 121.97);
+  --LigntGreen_Color: oklch(80.97% 0.1752 124.25);
+  --Yellow_Color: oklch(89.87% 0.1793 98.82);
+  --font-family_1: 'IBM Plex Sans';
+  --font-family_3: "Open Sans";
+  --font-family_4: "Prosto one";
+
+}
